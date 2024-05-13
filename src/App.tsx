@@ -9,6 +9,8 @@ function App() {
     <div className='bg-gray1 h-screen'>
        <Header/>
        <Wapper/>
+       
+       
     </div>
   )
 }
